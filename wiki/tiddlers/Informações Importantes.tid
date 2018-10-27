@@ -6,5 +6,5 @@ list-before: $:/core/ui/SideBar/Open
 type: text/vnd.tiddlywiki-html
 
 <div class="tc-table-of-contents">
-<<toc-selective-expandable "Horário de Ônibus">>
+<<toc-selective-expandable "Informações Importantes">>
 </div>
