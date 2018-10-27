@@ -1,5 +1,8 @@
 title: Horário de Ônibus
 creator: reneabreu
+tags: $:/tags/SideBar
+list: Bem-Vindo [[Como Chegar?]] Transporte Moradia
+list-before: $:/core/ui/SideBar/Open
 type: text/vnd.tiddlywiki-html
 
 <div class="tc-table-of-contents">
